@@ -88,6 +88,3 @@ The analysis provides insights into:
 
 Computer Science & Data Science Engineering
 
-## License
-
-This project is intended for educational and learning purposes.
