@@ -64,31 +64,6 @@ EV-Charging-Station-Demand-Forecasting-and-Visualization/
 └── requirements.txt
 ```
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/EV-Charging-Station-Demand-Forecasting-and-Visualization.git
-```
-
-Move into the project directory:
-
-```bash
-cd EV-Charging-Station-Demand-Forecasting-and-Visualization
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
 
 ## Results
 
